@@ -72,6 +72,7 @@ Table 1 Specific information of in-vehicle computing system.
 The applications in this platform can be manipulated through gestures, voice, and eyes. Additionally, the user interface of the transparent windshield display consists of a header container (upper portion of the screen), a content container (mid portion of the screen), and a footer container (lower portion of the screen), as shown in Fig. 5. The header container always displays information such as the status of the car, traffic information, weather conditions, etc. The content and footer containers show the complete and simplified content from the activated application, respectively. The application platform can be downloaded from [7].
 
 Table 2 Icons of three potential applications for operational safety enhancement in the Smart Car demonstration platform. The first column represents the number of icons and the second column represents three potential applications.
+
 ![image](https://user-images.githubusercontent.com/83450250/137089123-0a4c46d6-c943-42c2-bc3d-4f3eee278b1f.png)
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
