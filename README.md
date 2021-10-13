@@ -67,6 +67,7 @@ C. Application Unit
 We gave the Smart Car an open platform where users are able to download applications from automobile companies, government/private utility providers, and insurance companies in order to customize the features, performance, and capabilities.
 
 Table 1 Specific information of in-vehicle computing system.
+
 ![image](https://user-images.githubusercontent.com/83450250/137089015-212a8e96-7a37-4240-8005-97137bc033e0.png)
 
 The applications in this platform can be manipulated through gestures, voice, and eyes. Additionally, the user interface of the transparent windshield display consists of a header container (upper portion of the screen), a content container (mid portion of the screen), and a footer container (lower portion of the screen), as shown in Fig. 5. The header container always displays information such as the status of the car, traffic information, weather conditions, etc. The content and footer containers show the complete and simplified content from the activated application, respectively. The application platform can be downloaded from [7].
